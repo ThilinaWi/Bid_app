@@ -1,2 +1,2 @@
 # Bid_app
- this is fully functional bidding webapp
+ This is fully functional bidding webapp
